@@ -36,6 +36,14 @@ Computer Science with GPA of 3.03. Awarded International Chancellor's Scholarshi
 Bachelor in Engineering , BMSCE, Visvesvaraya Technological University, India 2008
 Computer Science with GPA of 3.07
 
+
+VOLUNTEERING AND COURSES
+----------------------
+
+During the career break(child care), I volunteered with JobsForHer, a group to support and bring back women to workforce. I finished R programming and Data Science toolbox courses in Coursera.
+Worked on developing an application for Allaway Acoustics(UK), to log in the customer requests and keep track on the product development.​ This application was in vb.net and SQL.
+I also joined a start-up working on HTML,CSS and JavaScript. The idea was to create a social media for basketball players. I created login screens for users, recorded their details and used d3.js to plot graphs. MongoDb was used to store data.
+
 SKILLS
 ----
 C++, OOPS, VB.net, SQL, NoSQL, Unix,  Waterfall and Agile SDLC methodologies 
